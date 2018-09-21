@@ -11,12 +11,12 @@
 
 **Code Execution**
 
-1. Execute create-tables.py
+1. Execute python create-tables.py
    
    (One Time at the beginning)
 
-2. Execute Ingest.py
+2. Execute python Ingest.py
 
-3. Execute TopXSimpleLTVCustomers.py x
+3. Execute python TopXSimpleLTVCustomers.py x
    
    Where x=Topx
