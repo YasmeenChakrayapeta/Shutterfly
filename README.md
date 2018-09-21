@@ -8,3 +8,13 @@
 2.While updating orders considering updating event_time, total_amount and not customer_id assuming that we need the customer id corresponding to a particular order.
 
 3.If an order has been placed then assuming that, there will be a site_visit entry in the input event data corresponding to that order.
+
+**Code Execution**
+
+1. Execute create-tables.py
+   (One Time at the beginning)
+
+2. Execute Ingest.py
+
+3. Execute TopXSimpleLTVCustomers.py x
+   Where x=Topx
