@@ -12,9 +12,11 @@
 **Code Execution**
 
 1. Execute create-tables.py
+   
    (One Time at the beginning)
 
 2. Execute Ingest.py
 
 3. Execute TopXSimpleLTVCustomers.py x
+   
    Where x=Topx
